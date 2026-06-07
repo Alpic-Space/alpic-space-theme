@@ -1,18 +1,21 @@
-![Bunner](images/bunner.png)
+<img src="images/bunner.png" width="100%"/>
 
-# open-side-theme README
+<h1 align="center">Alpic Space Theme</h1>
 
-## Working with Markdown
+This VS Code theme is designed for programmers who care about their eye health. The dark blue theme features a calmer colour scheme. It minimises distractions and helps programmers focus on their projects.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+P.S. If you like this theme, please give it 5 stars and tell other programmers about it.
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-- Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-- Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Installation
 
-## For more information
+1. Open **Extensions** in VS Code (`Ctrl+Shift+X`)
+2. Search for `Alpic Space Theme`
+3. Click **Install**
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Preview
 
-**Enjoy!**
+![Preview](images/theme.png)
+
+## License
+
+MIT © Alpic-Space
