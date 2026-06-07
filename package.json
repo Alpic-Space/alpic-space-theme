@@ -3,6 +3,13 @@
   "displayName": "Alpic Space Theme",
   "description": "A dark theme for VS Code",
   "version": "0.0.1",
+  "publisher": "Alpic-Space",
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alpic-Space/alpic-space-theme"
+  },
+  "homepage": "https://github.com/Alpic-Space/alpic-space-theme#readme",
   "engines": {
     "vscode": "^1.120.0"
   },
@@ -12,15 +19,10 @@
   "contributes": {
     "themes": [
       {
-        "label": "Alpic Space Theme ",
+        "label": "Alpic Space Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Alpic Space Theme -color-theme.json"
       }
-    ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Alpic-Space/alpic-space-theme"
-    },
-    "icon": "images/icon.png"
+    ]
   }
 }
